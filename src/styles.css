@@ -1,0 +1,17 @@
+body {
+    background-color: gainsboro;
+}
+table {
+    width: 600px; /* Fixed width for the table */
+    font-size: 12px; /* Fixed font size for the table */
+    border: 2px solid transparent;
+    border-collapse: collapse;
+    font-family: Times new roman;
+    background-color: white;
+    table-layout: fixed;
+}
+td {
+    border: 2px solid black;
+    padding: 10px;
+    border-color: transparent;
+}
